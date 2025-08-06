@@ -15,7 +15,7 @@ We develop and maintain technology solutions across four core areas:
 - **Fund Operations**: Tools and infrastructure for fund administration, compliance, and reporting
 - **Quantitative Strategies**: Algorithmic trading systems and statistical models for systematic investment approaches
 
-## Technology Stack
+## Engineering Principles
 
 Our systems prioritize:
 - Secure, compliant infrastructure for financial operations
